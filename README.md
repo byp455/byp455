@@ -1,6 +1,6 @@
 - 👋 Hello there, I’m @byp455
-- 👀 I’m interested in cyber security and info sec.
-- 🌱 I’m currently learning about C2-infrastructures and working with the windows api
+- 👀 I’m interested in cyber security and software development.
+- 🌱 I’m currently learning about C2-infrastructures and the windows api
 - 📫 You can reach me on Twitter: @byp455
 
 <!---
